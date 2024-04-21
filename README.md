@@ -1,4 +1,5 @@
 01 Cloud Corp = https://katycloudcorp.vercel.app/
+02 Snippets = https://katysnippets.vercel.app/
 
 # Next.js 13 with Projects
 
