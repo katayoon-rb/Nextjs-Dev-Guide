@@ -2,6 +2,8 @@
 
 02 Snippets = https://katysnippets.vercel.app/
 
+03 Discuss = https://katydiscuss.vercel.app/
+
 # Next.js 13 with Projects
 
 Welcome to the Next.js 13 with Projects Course! 🚀
