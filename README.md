@@ -4,25 +4,40 @@
 
 03 Discuss = https://katydiscuss.vercel.app/
 
-# Next.js 13 with Projects
+# Next.js - The Complete Developer's Guide
 
-Welcome to the Next.js 13 with Projects Course! 🚀
+Welcome to the Next.js - The Complete Developer's Guide course! 🚀
 
-This course is designed to help you master Next.js 13 and build real-world projects using this powerful React framework. Whether you're a beginner or experienced developer, you'll learn the ins and outs of Next.js and how to leverage it to create modern web applications.
+This comprehensive course is your ultimate guide to mastering Next.js, the React framework for production. Led by instructor Stephen Grider, you'll dive deep into Next.js and learn how to build server-rendered React applications with ease.
 
 ## Course Overview
 
-- **Course Name**: Next.js 13 with Projects
+- **Course Name**: Next.js - The Complete Developer's Guide
+- **Instructor**: [Stephen Grider](https://www.udemy.com/user/sgslo/)
 - **Platform**: Udemy
+- **Enrollment Link**: [Enroll Now](https://www.udemy.com/course/next-js-the-complete-developers-guide/?couponCode=ST6MT42324)
 - **Skill Level**: Beginner to Intermediate
 
 ## What You'll Learn
 
-- Master the fundamentals of Next.js 13
+- Master the fundamentals of Next.js
 - Build dynamic, server-rendered React applications
-- Explore advanced Next.js features such as routing, data fetching, and authentication
-- Develop real-world projects to apply your knowledge
+- Implement routing, data fetching, and authentication with Next.js
 - Deploy Next.js applications to production
+- Explore advanced Next.js features and optimizations
 
+## Why Choose This Course
+
+- Comprehensive curriculum covering all aspects of Next.js development
+- Hands-on projects and coding exercises to reinforce learning
+- Instructor support and guidance throughout the course
+- Lifetime access to course materials
+- Certification upon completion
+
+## Enroll Now
+
+Ready to become a Next.js expert? Enroll now in Next.js - The Complete Developer's Guide on Udemy and start building powerful web applications with Next.js! 🌟
+
+[Enroll Now](https://www.udemy.com/course/next-js-the-complete-developers-guide/?couponCode=ST6MT42324)
 
 Happy coding! 💻🎉
