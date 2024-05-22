@@ -1,9 +1,3 @@
-01 Cloud Corp = https://katycloudcorp.vercel.app/
-
-02 Snippets = https://katysnippets.vercel.app/
-
-03 Discuss = https://katydiscuss.vercel.app/
-
 # Next.js - The Complete Developer's Guide
 
 Welcome to the Next.js - The Complete Developer's Guide course! 🚀
